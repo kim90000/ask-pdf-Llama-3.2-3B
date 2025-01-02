@@ -2,6 +2,8 @@
 chat with your pdf free
 
 
+run it in colab cpu only
+
 Rate of
 
 https://github.com/Vikneshwara-kumar/RAG_Based_Talk_to_PDF
